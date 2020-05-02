@@ -1,5 +1,6 @@
 import pygame
 pygame.init()
+first line add
 
 
 win = pygame.display.set_mode((500, 480))
